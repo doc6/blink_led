@@ -1,0 +1,1 @@
+count.d: ../count.c
